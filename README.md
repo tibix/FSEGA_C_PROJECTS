@@ -6,4 +6,8 @@ Pentru o organizare mai eficienta, proiectele cu prefixul **UP** vor fii cele in
 
 
 ## UP1_hello_world ##
-Este un mic program care printeaza in terminal sirul de caractere "Hello World"
+Un mic program care printeaza in terminal sirul de caractere "Hello World"
+
+
+## PP1_String_variables ##
+Un mic care demostreaza definirea variabilelor de tip string si afisarea lor in terminal
