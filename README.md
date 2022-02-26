@@ -23,3 +23,7 @@ Functiile sunt folosite cu principiul DRY (Don't Repeat Yourself)
 
 ## PP4_Structs_Typedef ##
 Un program care demostreaza cum se folosesc struct si typedef, de asemenea si cum se pot combina cele doua pentru o eficienta mai mare.
+
+## PP5_Array_Of_Structs ##
+Acest program demostreaza cu se pot crea liste (array) cu structs ca si elemente.
+De asemenea se demonstreaza cum se poate folosi o bucla for() pentru a itera elementele unei astfel de liste.
