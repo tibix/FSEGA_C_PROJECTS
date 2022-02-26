@@ -16,3 +16,7 @@ Un mic care demostreaza definirea variabilelor de tip string si afisarea lor in 
 ## PP2_User_Input ##
 Program care preia informatia de la utilizator si apoi o afiseaza in terminal.
 Am folosit mai multe tiuri de date pentru a demonstra cum se colecteaza si salveaza aceastea in variabile.
+
+## PP#_Function ##
+Acest program demostreaza cum functioneaza o functie care primeste argumente si returneaza un anumit rezultat.
+Functiile sunt folosite cu principiul DRY (Don't Repeat Yourself)
