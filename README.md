@@ -27,3 +27,6 @@ Un program care demostreaza cum se folosesc struct si typedef, de asemenea si cu
 ## PP5_Array_Of_Structs ##
 Acest program demostreaza cu se pot crea liste (array) cu structs ca si elemente.
 De asemenea se demonstreaza cum se poate folosi o bucla for() pentru a itera elementele unei astfel de liste.
+
+## PP6_Enums ##
+Un program care demonstreaza cum se declara constantele Enum si cum ajuta la crearea unui cod mai usor de intele
