@@ -35,8 +35,8 @@ int main(){
 	printf("\tNume     : %s\n", nume);
 	printf("\tPrenume  : %s\n", prenume);
 	printf("\tVirsta   : %d\n", virsta);
-	printf("\tInaltime : %f\n", inaltime);
-	printf("\tSalariu  : %lf\n", salariu);
+	printf("\tInaltime : %.2f\n", inaltime);
+	printf("\tSalariu  : %.2lf\n", salariu);
 	printf("\n");
 
 	printf("Sunt corecte infromatiile? D (DA) sau N (NU): ");
