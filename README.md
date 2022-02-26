@@ -20,3 +20,6 @@ Am folosit mai multe tiuri de date pentru a demonstra cum se colecteaza si salve
 ## PP#_Function ##
 Acest program demostreaza cum functioneaza o functie care primeste argumente si returneaza un anumit rezultat.
 Functiile sunt folosite cu principiul DRY (Don't Repeat Yourself)
+
+## PP4_Structs_Typedef ##
+Un program care demostreaza cum se folosesc struct si typedef, de asemenea si cum se pot combina cele doua pentru o eficienta mai mare.
