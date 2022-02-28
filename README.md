@@ -37,3 +37,6 @@ Am adaugat antet inaintea generarii tabelului, si am reorganizat printarea datel
 
 ## UP3_Celsius_to_Fahrenheit ##
 Acest program converteste din grade Celsius in grade Fahrenheit
+
+## UP4_For_loop_F_to_C ##
+Program care converteste din grade Fahrenheit in grade Celsius folosind o bucla for
