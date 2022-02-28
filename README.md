@@ -30,3 +30,10 @@ De asemenea se demonstreaza cum se poate folosi o bucla for() pentru a itera ele
 
 ## PP6_Enums ##
 Un program care demonstreaza cum se declara constantele Enum si cum ajuta la crearea unui cod mai usor de intele
+
+## UP2_Fahrenheit_to_Celsius ##
+Program care converteste din temperaturi exprimate in Fahrenheit in temperaturi exprimate in grade Celsius.
+Am adaugat antet inaintea generarii tabelului, si am reorganizat printarea datelor astfel incata sa se alinieze cu capul de tabel.
+
+## UP3_Celsius_to_Fahrenheit ##
+Acest program converteste din grade Celsius in grade Fahrenheit
